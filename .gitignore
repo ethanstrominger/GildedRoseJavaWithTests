@@ -9,8 +9,4 @@ build
 *.iws
 out
 
-.metadata
-.settings
-.classpath
-.project
 
